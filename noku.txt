@@ -1,0 +1,11 @@
+fddhsghdgdsfgdhgsfffd
+fhdgfdsjfydtdsghdfdhcfcsvcs
+svdvfdgfdjftdgdhcvvdvfvv
+name="noku"
+name=(input("hat is your name"))
+while True:
+  if name == "Noku":
+    print("correct")
+    name=(input("hat is your name"))
+else:
+    print("Shit")
