@@ -472,3 +472,4 @@
 #
 #os.mkdir("moses")
 #os.rmdir("moses")
+print("hello world")
