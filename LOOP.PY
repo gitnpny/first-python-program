@@ -124,3 +124,13 @@
 #while n >=0:
 #    print(n)
 #    n -= 1
+
+#count = 0
+#while count < 5:
+#    print("Count is:", count)
+#    count += 1
+#
+#count = 0 
+#while count < 10:
+#    print ("count is : ", count) 
+#    count +=1

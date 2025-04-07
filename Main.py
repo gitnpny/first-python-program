@@ -472,4 +472,15 @@
 #
 #os.mkdir("moses")
 #os.rmdir("moses")
-print("hello world")
+
+#
+# print(eval(input("Enter :")))
+
+#
+#def greet(name="Nokughjk"):
+#    print(f"hi {name}")
+#greet("Noku")
+
+list1 =[1,2,3,4,5,6,]
+list= input("Enter")
+print(list1 in list1)
